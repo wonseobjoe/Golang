@@ -1,0 +1,499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ReadS",
+				"ReadString                     func(delim byte) (line string, err error ƒ"
+			],
+			[
+				"Stdi",
+				"Stdin                          *os.File                                 ν"
+			],
+			[
+				"P",
+				"PressBellByGuest"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"main",
+				"main	main"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Running /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nno command for selector: noop:\nno command for selector: noop:\nno command for selector: noop:\nno command for selector: noop:\nno command for selector: noop:\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/scope_test.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_Complex.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_Complex.py\nRunning /Library/Frameworks/Python.framework/Versions/3.5/bin/python3 -u /Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_Complex.py\nerror: Package Control\n\nError executing: /usr/bin/security dump-trust-settings -d\n\nSecTrustSettingsCopyTrustSettings: The specified item could not be found in the keychain.\nSecTrustSettingsCopyTrustSettings: The specified item could not be found in the keychain.\nSecTrustSettingsCopyTrustSettings: The specified item could not be found in the keychain.\nSecTrustSettingsCopyTrustSettings: The specified item could not be found in the keychain.\nSecTrustSettingsCopyTrustSettings: The specified item could not be found in the keychain.\nNumber of trusted certs = 7\nCert 0: INCA Internet Co., Ltd. CA\n   Number of trust settings : 0\nCert 1: INCA Internet Co., Ltd. PFS\n   Number of trust settings : 0\nCert 2: Equifax Secure Certificate Authority\nCert 3: GTE CyberTrust Global Root\nCert 4: Thawte Premium Server CA\nCert 5: Thawte Server CA\nCert 6: Class 3 Public Primary Certification Authority\n\nVCS-based packages can be ignored with the \"ignore_vcs_packages\" setting.",
+			"settings":
+			{
+				"buffer_size": 5323,
+				"line_ending": "Unix",
+				"name": "Running /Library/Frameworks/Python.framework/Versi"
+			}
+		},
+		{
+			"contents": "https://github.com/wonseobjoe/golang.git",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix",
+				"name": "https://github.com/wonseobjoe/golang.git"
+			}
+		},
+		{
+			"contents": ". venv/bin/activate\ndeactivate",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix",
+				"name": ". venv/bin/activate"
+			}
+		}
+	],
+	"build_system": "Packages/Rust/Cargo.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					""
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Clean Build"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Tests"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Tagged Tests"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Test at Cursor"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Current Package Tests"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Last Test"
+				]
+			],
+			[
+				"Packages/GoTools/GoTools.sublime-build",
+				"Build"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wonseobjoe/Documents/Workspace/Golang"
+	],
+	"file_history":
+	[
+		"/Users/wonseobjoe/Documents/Workspace/Golang/blocks/archi/bottom/base.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/blocks/entrance/guest.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/hello.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/blocks/main/guest.go",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_Complex.py",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/complex_class.py",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main_MyClass.py",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/main.py",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/scope_test.py",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/MyClass.py",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/Flask/hello.py",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/wonseobjoe/Documents/Workspace/Python3.5/Examples/spanish_dic.py",
+		"/Users/wonseobjoe/Documents/Development/Python3.5/Examples/main.py",
+		"/Users/wonseobjoe/Documents/Development/Python3.5/Examples/hello_python3.5.py",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/Old.Preferences.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/Python-3.5.sublime-build",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/functions/vm.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/check-available-memory.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/functions/network.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/launch_4GB.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/slave-nodes-create-and-boot.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/prepare-environment.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/master-node-enable-internet.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/master-node-create-and-install.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/create-interfaces.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/actions/clean-previous-installation.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/config.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/functions/product.sh",
+		"/Volumes/EXT_DISK_01/Work Storage/Mirantis ISO file/virtualbox/functions/memory.sh"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4987,
+								4987
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Running /Library/Frameworks/Python.framework/Versi",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1400.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "https://github.com/wonseobjoe/golang.git",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"auto_name": ". venv/bin/activate",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/wonseobjoe/Documents/Workspace/Golang":
+	{
+		"height": 146.0
+	},
+	"output.9o:///Users/wonseobjoe/Documents/Workspace/Golang/blocks/entrance":
+	{
+		"height": 146.0
+	},
+	"output.exec":
+	{
+		"height": 125.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 146.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "Packages/Golang Build/Go.sublime-build",
+	"project": "Golang.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
