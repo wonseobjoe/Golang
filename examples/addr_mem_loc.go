@@ -1,3 +1,4 @@
+// Address and memory location
 package main
 
 import "fmt"
