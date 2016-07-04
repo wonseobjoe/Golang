@@ -58,17 +58,20 @@ or as the first argument! (The format is user/name@host:port/sid)`)
 }
 
 func testSelect(db *sql.DB) error {
-	rows, err := db.Query("select 3.14, 'foo' from dual")
+	rows, err := db.Query("select count(1) from asset")
 	if err != nil {
 		return err
 	}
 	defer rows.Close()
 
 	for rows.Next() {
-		var f1 float64
-		var f2 string
-		rows.Scan(&f1, &f2)
-		println(f1, f2) // 3.14 foo
+		//var f1 float64
+		//var f2 string
+		//rows.Scan(&f1, &f2)
+		//println(f1, f2) // 3.14 foo
+		var cnt int64
+		rows.Scan(&cnt)
+		fmt.Println(cnt)
 	}
 	return nil
 }
