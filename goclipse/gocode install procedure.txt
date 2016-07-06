@@ -1,7 +1,0 @@
-gocode(go syntax check ) install procedure
-
-1. Git-2.9.0-64-bit.exe 실행
-2. {GIT_INSTALL_ROOT}\bin  path 에 추가
-3. go.exe get -u github.com/nsf/gocode
-4. {GO_INSTALL_ROOT}\src\bin gocode 다운로드 완료 확인
-5. Window - Preferences - GO - Tools  gocode:executable 란에 {GO_INSTALL_ROOT}\src\bin\gocode.exe 입력

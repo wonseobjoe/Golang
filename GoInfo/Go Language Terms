@@ -1,0 +1,4 @@
+GOROOT : GO 프로그램이 설치된 경로  (EX: C:\Go)
+GOPATH : GO 프로젝트 루트 경로       (EX: C:\Source\goworkspace\Golang)
+src :    <GOROOT>\src , <GOPATH\src>  라이브러리 및 임의로 생성한 라이브러리 소스등이 위치
+gocode.exe : 이클립스 상에서 go syntax 체크 및 자동완성을 가능하게함 
