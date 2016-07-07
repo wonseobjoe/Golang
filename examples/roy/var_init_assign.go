@@ -16,6 +16,5 @@ func main() {
 		unused       int = -1
 		_                = unused
 	)
-	time.
-		fmt.Println(x, y, age, name, a, b, c, d, k, j, address, sex, unused)
+	fmt.Println(x, y, age, name, a, b, c, d, k, j, address, sex, unused)
 }
