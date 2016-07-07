@@ -44,10 +44,21 @@
 	"buffers":
 	[
 		{
-			"file": "examples/roy/var_init_assign.go",
+			"contents": "package main\n\nfunc main() {\n	anonymous_func()\n}\n",
+			"file": "examples/roy/exam_main.go",
+			"file_size": 48,
+			"file_write_time": 131123535660000000,
 			"settings":
 			{
-				"buffer_size": 344,
+				"buffer_size": 48,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/roy/anonymous_func.go",
+			"settings":
+			{
+				"buffer_size": 198,
 				"line_ending": "Unix"
 			}
 		}
@@ -204,7 +215,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 467.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -231,14 +242,33 @@
 	],
 	"file_history":
 	[
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoRename/Default.sublime-settings",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/Godef.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/Godef/Godef.sublime-settings",
+		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/golang.sublime-settings",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/control_structure_if.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/defer_func.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/num_type.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/control_structure_loop.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/var_default_value.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/mem_var.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/multicore.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/anonymous_func.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/channel.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/channel_buffer.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/closure.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/var_init_assign.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/defer_test.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/closure_test.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/anonymous_func_test.go",
+		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/addr_mem_loc.go",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/Godef/messages/install.txt",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
-		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
-		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/golang.sublime-settings",
 		"/Users/wonseobjoe/Documents/Workspace/Golang/Golang.sublime-project",
-		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
-		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/Godef/Godef.sublime-settings",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/GoGuru.sublime-settings",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoGuru/Default.sublime-settings",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoTests-Sublime/GoTests.sublime-settings",
@@ -247,14 +277,7 @@
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/GoSublime/Default (OSX).sublime-keymap",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/num_type.go",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/var_init_assign.go",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/multicore.go",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/closure.go",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/channel.go",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/channel_buffer.go",
 		"/Users/wonseobjoe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/control_structure_loop.go",
 		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/webapps/http_webapp1.go",
 		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/webapps/panic_func.go",
 		"/Users/wonseobjoe/Documents/Workspace/Golang/examples/roy/webapps/defer_statement.go",
@@ -350,30 +373,58 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "examples/roy/var_init_assign.go",
+					"file": "examples/roy/exam_main.go",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 344,
+						"buffer_size": 48,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								341,
-								341
+								45,
+								45
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"syntax": "Packages/GoTools/GoTools.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "examples/roy/anonymous_func.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoTools/GoTools.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
